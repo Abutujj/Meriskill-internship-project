@@ -1,8 +1,8 @@
 # Meriskill-internship-project
 ![](https://github.com/Abutujj/Meriskill-internship-project/blob/main/Cover%20page.png)
 ## Introduction
-  This project is to dive into a large sales dataset to extract valuable insights. 
- Explore sales trends over time, identify the best-selling products, calculate revenue 
+This project is to dive into a large sales dataset to extract valuable insights. 
+Explore sales trends over time, identify the best-selling products, calculate revenue 
 metrics such as total sales and profit margins, and create visualizations to present  
 findings effectively. This project showcases the ability to manipulate and derive insights 
 from large datasets.
